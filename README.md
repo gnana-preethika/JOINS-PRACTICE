@@ -1,3 +1,15 @@
+
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: GNANA PREETHIKA A B
+
+DOMAIN: SQL
+
+DURATION: 4 WEEKS
+
+MENTOR: NEELA SANTHOSH KUMAR
+
+
 Task-1: Joins Practice – SQL Code Description
 This SQL script demonstrates the practical use of various SQL JOIN operations using two simple and relatable tables: patients and appointments. The purpose of this task is to understand how different types of joins work when retrieving data from multiple related tables. This is a fundamental concept in relational databases and essential for performing accurate data analysis.
 
@@ -26,15 +38,7 @@ This task serves as a strong foundation for understanding join operations in SQL
 In summary, this Task-1 script demonstrates INNER JOIN, LEFT JOIN, RIGHT JOIN, and FULL OUTER JOIN with meaningful examples, and prepares the learner for more complex multi-table queries in real database systems.
 
 
-COMPANY: CODTECH IT SOLUTIONS
 
-NAME: GNANA PREETHIKA A B
-
-DOMAIN: SQL
-
-DURATION: 4 WEEKS
-
-MENTOR: NEELA SANTHOSH KUMAR
 OUTPUT:
 ![Image](https://github.com/user-attachments/assets/22d7fe44-3dca-4a0a-85ee-36e831cd5090)
 
