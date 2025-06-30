@@ -26,8 +26,13 @@ This task serves as a strong foundation for understanding join operations in SQL
 In summary, this Task-1 script demonstrates INNER JOIN, LEFT JOIN, RIGHT JOIN, and FULL OUTER JOIN with meaningful examples, and prepares the learner for more complex multi-table queries in real database systems.
 
 
-COMPANY:CODTECH IT SOLUTIONS
-NAME:GNANA PREETHIKA A B
-DURATION:4 WEEKS
-MENTOR:NEELA SANTHOSH KUMAR
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: GNANA PREETHIKA A B
+
+DOMAIN: SQL
+
+DURATION: 4 WEEKS
+
+MENTOR: NEELA SANTHOSH KUMAR
 
